@@ -1,6 +1,6 @@
 [![MasterHead](https://camo.githubusercontent.com/12e5f2b182da4b52850b29bb09e8ba3e92b0ac2c0bd121de7dfcbb291fbbd525/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966)](https://rishavchanda.io)
 # 💫 About Me:
-🔭 I’m currently working on mobile app with Swiftui<br>🌱 I’m currently learning React Native<br>📫 How to reach me anderadarve@gmail.com/a.adarve@utp.edu.co<br>
+🔭 I’m currently working on mobile app with SwiftUI<br>🌱 I’m currently learning React Native<br>📫 How to reach me anderadarve@gmail.com/a.adarve@utp.edu.co<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anderson-adarve-2baa70167) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22493226) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@andersonadarvevalencia4691) 
